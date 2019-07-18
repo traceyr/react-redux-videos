@@ -1,4 +1,3 @@
-'use strict';
 import cred from './credentials.js'
 import axios from 'axios';
 
